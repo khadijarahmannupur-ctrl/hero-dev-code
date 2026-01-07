@@ -18,6 +18,8 @@
     border-radius: 5px;
     color: white;
     cursor: pointer;
+    
+
 }
 
 .section-heading{
@@ -46,7 +48,7 @@
 } */
 header{
     background-color:#FFF8F3;
-    background: url(../images/developer.png), url(../images/header_bg.png);
+    background: url(../images/developer.png), url(../images/header_bg.png),#FFF8F3;
     background-position: 23px 38px, 670px 318px;
     background-repeat: no-repeat;
     padding: 50px;
